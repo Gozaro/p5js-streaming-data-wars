@@ -4,11 +4,11 @@ A P5js and Twitter data visualization project.
 
 This project compares two keyboards form the Twitter API stream and makes a real time visualization in your web browser using P5js
 
-The project creates a Webserver using Node and Express and connects the P5js App running in the Webbrowser, with sockets using Sockets.io.
+The project creates a Webserver using Node and Express and connects the P5js App with sockets using Sockets.io.
 
-Twit is used to fetch realtime data form the Twitter API stream.
+Twit package is used to fetch realtime data form the Twitter API stream.
 
-Open the console inspector to see the tweets streamed in real time.
+Open the console inspector at the web browser to see the tweets streamed in real time.
 
 ## To run the project:
 
